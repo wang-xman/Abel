@@ -1,0 +1,12 @@
+# JSON+ data types
+{
+    "Null" : null, 
+    "Bool" : true,
+    "Integer" : 120,                 # integer
+    "Double1" : -.5e+12,
+    "Double2" : -89.0,
+    "Complex" : -1.8e+10 - .6e-21j,  # complex
+    "Text" : "10.987",
+    "Binary" : 0b100101,             # binary
+    "Bitstring" : _b100101,          # bitstring
+}

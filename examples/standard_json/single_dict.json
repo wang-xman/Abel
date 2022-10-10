@@ -1,0 +1,12 @@
+{
+    "Firstname" : "Zaphod",
+    "Surname" : "Beeblebrox",
+    "Array" : [
+        2,
+        {
+            "Firstname" : "Arthur",
+            "Surname" : "Dent"
+        },
+        [ "Ford", "Prefect" ]
+    ]
+}

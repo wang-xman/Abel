@@ -1,0 +1,15 @@
+# Mixture of delimited and nondelimited strings.
+# Interpreted as a list of different types of objects.
+{
+    "name" : "Foo",
+    "children" : [ "Bar", "Baz" ]
+},
+100,
+[0.5e+10, "student_number"],
+"classname",
+{
+    "test" : "First\"\\",
+    "label" : [0.5, "Hallo", [0, 1, "2"] ]
+},
+0b0001010,
+0.0 - 1.0j

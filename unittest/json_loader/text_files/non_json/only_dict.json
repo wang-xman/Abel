@@ -1,0 +1,10 @@
+{
+    "Name" : "Teddy",
+    "Area" : {
+        "Region" : {
+            "Continent" : "Europe",
+            "Country" : "Nederland"
+        },
+        "Code" : 31
+    }
+}

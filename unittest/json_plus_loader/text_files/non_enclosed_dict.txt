@@ -1,0 +1,24 @@
+"name" : "Fool",
+"children" : {
+    "key2" : {
+        "null" : null
+    },
+    "key3" : [
+        "value3",
+        ["value4", "value5"],
+        {
+            "double1" : 1.0,
+            "double2" : 1e-10,
+            "bool" : true,
+            "int1" : 100,
+            "int2" : 9,
+            "comp1" : 0+0.5e-10j,
+            "comp2" : 1.0 - 0.1j, # complex
+            "comp3" : 1.0j, # complex
+            "bin1" : 0b01000, # binary
+            "bin2" : 0b00,    # binary
+            "bstr1": _b0110,  # bitstring
+            "bstr2": _b0.11,  # bitstring
+        }
+    ]
+}

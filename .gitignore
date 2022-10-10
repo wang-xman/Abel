@@ -1,0 +1,15 @@
+.vscode
+/.vscode
+.DS_Store
+# build is usually system dependent
+/build
+# inside directory of documentation.
+doc/doctree
+doc/build
+doc/source/_static
+doc/source/_templates
+*.o
+*.out
+*.log
+*.code-workspace*
+*workspace.*

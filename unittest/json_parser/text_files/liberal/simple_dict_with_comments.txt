@@ -1,0 +1,6 @@
+# Embraced dictionary is considered as an element of a list.
+{
+    "na\\me" : "Fo,",
+    "children" : [ "Bar", "Baz" ], # a list
+    "age" : 49,
+}

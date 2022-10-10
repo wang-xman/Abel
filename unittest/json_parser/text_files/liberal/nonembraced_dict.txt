@@ -1,0 +1,9 @@
+# Nondelimited dictionary is interpreted as dictionary.
+"name" : "Fool",
+"children" : [10, 20, 30],
+"address" : {
+    "Line1" : "Happystrasse",
+    "Number" : [100, 09],
+    "Postcode" : "SE21W1"
+}
+# (a,2) would be illegel.

@@ -1,0 +1,14 @@
+"name" : "Fool",
+"children" : {
+    "key2" : {
+        "null" : null },
+    "key3" : [
+        "value3",
+        ["value4", "value5"],
+        {
+            "num1" : 1.0,
+            "num2" : 1e-10,
+            "bool" : true
+        }
+    ]
+}

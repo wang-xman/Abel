@@ -1,0 +1,12 @@
+{
+    "ADDRESS": {
+        "Galaxy" : "Bretelgeuse",
+        "Planet" : "Vogona",
+        "Land" : "La \"La\" Land",
+        "Street": ["Vitral\\strasse", 777] 
+    },
+    "NAME" : {
+        "Surname" : "Beeblebrox",
+        "First" : "Zaphod"
+    }
+}

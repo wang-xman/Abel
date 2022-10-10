@@ -1,0 +1,9 @@
+{
+    "name" : "Foo",
+    "sublist" : [ "Bar", 0.5e+10, false, null,
+                  2101, 0.005, 0.5e-10+1.0e-7j, 0b101001, _b100.001],
+    "med" : "Hello",
+    "vector" : [ 0.5e+10, 2101, 0.005, 700 ],
+    "vector2" : [ 1.2, 10.5, 0.7],
+    "vecstr" : [ "Europe", "105", "Quote\"ha"]
+}

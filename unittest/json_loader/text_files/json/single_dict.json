@@ -1,0 +1,4 @@
+{
+    "name" : "Foo",
+    "sublist" : [ "Bar", 0.5e+10, [ false, null ] ]
+}
