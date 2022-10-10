@@ -2,7 +2,6 @@
 # Note that the build directory must exist
 CXX := g++
 # For both GNU g++ and clang++
-# With clang++ flag c++11 is a must.
 CXXFLAGS := -g -Wall -std=c++14
 # Directories
 INCDIR := ${ABEL_ROOT}/include/
