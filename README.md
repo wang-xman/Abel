@@ -1,8 +1,6 @@
-# Abel - Containers, JSON Parsers, and Beyond
+# Abel
 
 ```
-Disclaimer
-
 MIT License
 
 Copyright (c) 2022 wang-xman
@@ -26,7 +24,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-In a short summary, part of the Abel library is designed to supply Python-like dictionary and list containers that are capable of storing
+## Containers, JSON Parsers, and Beyond
+
+Part of the Abel library strives to supply Python-like dictionary and list containers that are capable of storing
 *any legitimate type* of data. Well, the definition of *any legitimate type* is explained later. Besides a root class
 based on which user-defined types can be introduced, Abel also provides
 prefabed *intrinsic types* that are available to model most data. Before I bore you with its design which you can easily find out yourself, I shall
@@ -42,7 +42,7 @@ and storing more datatypes.
 
 ## Abel intrinsic types
 
-Current version of Abel supplies the following datatypes as its
+Current version (0.0.1) of Abel supplies the following datatypes as its
 *Abel intrinsic types*, or simply *intrinsics*. Most intrinsics are directly convertable to its conjugate C++ primitive (listed in the bracket).
 
 - Null `abel::Null`
@@ -73,7 +73,7 @@ Current version of Abel supplies the following datatypes as its
 
 ## Abel container types
 
-Current version provides two primary containers and they are designed to store
+Current version (0.0.1) provides two primary containers and they are designed to store
 any legitimate type, i.e. Abel intrinsic types, Abel container types, and any
 type that is derived from Abel root class.
 
@@ -86,7 +86,7 @@ type that is derived from Abel root class.
 
   A vector-like container that accepts any legitimate type as its element.
 
-## Standard `JSON` parser
+## Abel standard `JSON` parser
 
 Abel library provides a parser class `abel::JsonParser` to parse a `JSON`-
 formatted file, and a *loader* class `abel::JsonLoader` to load (from the
@@ -129,7 +129,7 @@ element of this list.
 
 ### Getting the target
 
-Abel provides a powerful and recommended method
+Abel provides a powerful and recommended method (in namespace `abel::cnt`, where `cnt` stands for *container*)
 ```
 abel::cnt::get<T>([source], [target])
 ```
@@ -140,12 +140,12 @@ to facilitate data access from containers. Simply speaking,
 - argument `[source]` can be any Abel container,
 
 - argument `[target]` is a `string` type should the `source` be a `abel::Dict`,
-  and a `integer` should the `[source]` be a `abel::List`.
+  and `integer` should the `[source]` be an `abel::List`.
 
 Well, we must face the reality that C++ is a strong-typed language. We are
 compelled to clarify the data type we want, which is perhaps not a bad thing.
 
-Examples can be found in directory `examples/standard_json/`.
+Examples can be found in [this](/examples/standard_json/) directory.
 
 ## Abel `JSON+` parser
 
@@ -159,7 +159,7 @@ is very similar to `JSON` in terms of data structure. However,
   `Double`,`Text` (string), current version of `JSON+` also recognises
   `Integer`, `Complex`, `Binary`, and `Bitstring`.
 
-### Parsing, loading, and gettting
+### Parsing, loading, and getting
 
 The *parsing*, *loading*, and *getting* process is identical to the above.
 The only exception is that you must use a dedicated parser class
@@ -167,7 +167,7 @@ The only exception is that you must use a dedicated parser class
 
 The getter and its usage remain the same.
 
-Examples can be found in directory `examples/json_plus/`.
+Examples can be found in [this](/examples/json_plus/) directory.
 
 ## Version information
 
