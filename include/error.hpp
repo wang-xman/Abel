@@ -1,5 +1,5 @@
-#ifndef _ABEL_ERROR_HPP_
-#define _ABEL_ERROR_HPP_
+#ifndef ABEL_ERROR_HPP
+#define ABEL_ERROR_HPP
 
 #include <exception>
 #include <iostream>

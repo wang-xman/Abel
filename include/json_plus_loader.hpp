@@ -1,5 +1,5 @@
-#ifndef _ABEL_JSON_PLUS_LOADER_HPP_
-#define _ABEL_JSON_PLUS_LOADER_HPP_
+#ifndef ABEL_JSON_PLUS_LOADER_HPP
+#define ABEL_JSON_PLUS_LOADER_HPP
 
 #include "json_plus_parser.hpp"
 #include "json_loader.hpp"

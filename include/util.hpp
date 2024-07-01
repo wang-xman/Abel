@@ -1,5 +1,5 @@
-#ifndef _ABEL_UTIL_HPP_
-#define _ABEL_UTIL_HPP_
+#ifndef ABEL_UTIL_HPP
+#define ABEL_UTIL_HPP
 
 #include "symbol.hpp"
 

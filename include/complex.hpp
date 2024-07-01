@@ -1,5 +1,5 @@
-#ifndef _ABEL_COMPLEX_HPP_
-#define _ABEL_COMPLEX_HPP_
+#ifndef ABEL_COMPLEX_HPP
+#define ABEL_COMPLEX_HPP
 
 #include "numeric.hpp"
 #include "double.hpp"

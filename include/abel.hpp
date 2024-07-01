@@ -1,5 +1,5 @@
-#ifndef _ABEL_ABEL_HPP_
-#define _ABEL_ABEL_HPP_
+#ifndef ABEL_ABEL_HPP
+#define ABEL_ABEL_HPP
 
 #include "error.hpp"
 #include "typefy.hpp"

@@ -1,5 +1,5 @@
-#ifndef _ABEL_OBJECT_HPP_
-#define _ABEL_OBJECT_HPP_
+#ifndef ABEL_OBJECT_HPP
+#define ABEL_OBJECT_HPP
 
 #include "error.hpp"
 #include "typefy.hpp"

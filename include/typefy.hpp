@@ -1,5 +1,5 @@
-#ifndef _ABEL_TYPEFY_HPP_
-#define _ABEL_TYPEFY_HPP_
+#ifndef ABEL_TYPEFY_HPP
+#define ABEL_TYPEFY_HPP
 
 #include <string>
 #include <vector>

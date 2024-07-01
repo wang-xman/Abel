@@ -1,5 +1,5 @@
-#ifndef _ABEL_BOOL_HPP_
-#define _ABEL_BOOL_HPP_
+#ifndef ABEL_BOOL_HPP
+#define ABEL_BOOL_HPP
 
 #include "object.hpp"
 

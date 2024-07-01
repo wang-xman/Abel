@@ -1,5 +1,5 @@
-#ifndef _ABEL_CONTAINER_PARSER_HPP_
-#define _ABEL_CONTAINER_PARSER_HPP_
+#ifndef ABEL_CONTAINER_PARSER_HPP
+#define ABEL_CONTAINER_PARSER_HPP
 
 #include "parser.hpp"
 

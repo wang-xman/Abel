@@ -1,5 +1,5 @@
-#ifndef _ABEL_BITSTRING_HPP_
-#define _ABEL_BITSTRING_HPP_
+#ifndef ABEL_BITSTRING_HPP
+#define ABEL_BITSTRING_HPP
 
 #include "text.hpp"
 

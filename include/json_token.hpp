@@ -1,5 +1,5 @@
-#ifndef _ABEL_JSON_TOKEN_HPP_
-#define _ABEL_JSON_TOKEN_HPP_
+#ifndef ABEL_JSON_TOKEN_HPP
+#define ABEL_JSON_TOKEN_HPP
 
 #include "token.hpp"
 

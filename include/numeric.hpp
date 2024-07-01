@@ -1,5 +1,5 @@
-#ifndef _ABEL_NUMERIC_HPP_
-#define _ABEL_NUMERIC_HPP_
+#ifndef ABEL_NUMERIC_HPP
+#define ABEL_NUMERIC_HPP
 
 #include "object.hpp"
 

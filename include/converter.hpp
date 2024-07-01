@@ -1,5 +1,5 @@
-#ifndef _ABEL_CONVERTER_HPP_
-#define _ABEL_CONVERTER_HPP_
+#ifndef ABEL_CONVERTER_HPP
+#define ABEL_CONVERTER_HPP
 
 #include "intrinsic.hpp"
 #include "util.hpp"

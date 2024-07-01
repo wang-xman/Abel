@@ -1,5 +1,5 @@
-#ifndef _ABEL_DICT_HPP_
-#define _ABEL_DICT_HPP_
+#ifndef ABEL_DICT_HPP
+#define ABEL_DICT_HPP
 
 #include "tuple.hpp"
 

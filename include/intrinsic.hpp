@@ -1,5 +1,5 @@
-#ifndef _ABEL_INTRINSIC_HPP_
-#define _ABEL_INTRINSIC_HPP_
+#ifndef ABEL_INTRINSIC_HPP
+#define ABEL_INTRINSIC_HPP
 
 #include "null.hpp"
 #include "bool.hpp"

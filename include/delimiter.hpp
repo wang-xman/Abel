@@ -1,5 +1,5 @@
-#ifndef _ABEL_DELIMITER_HPP_
-#define _ABEL_DELIMITER_HPP_
+#ifndef ABEL_DELIMITER_HPP
+#define ABEL_DELIMITER_HPP
 
 #include "util.hpp"
 

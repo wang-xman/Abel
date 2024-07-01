@@ -1,5 +1,5 @@
-#ifndef _ABEL_INTEGER_HPP_
-#define _ABEL_INTEGER_HPP_
+#ifndef ABEL_INTEGER_HPP
+#define ABEL_INTEGER_HPP
 
 #include "numeric.hpp"
 

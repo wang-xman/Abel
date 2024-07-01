@@ -1,5 +1,5 @@
-#ifndef _ABEL_PARSER_HPP_
-#define _ABEL_PARSER_HPP_
+#ifndef ABEL_PARSER_HPP
+#define ABEL_PARSER_HPP
 
 #include "delimiter.hpp"
 #include "converter.hpp"

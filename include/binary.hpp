@@ -1,6 +1,6 @@
 /* TODO 1. Conversion to integer */
-#ifndef _ABEL_BINARY_HPP_
-#define _ABEL_BINARY_HPP_
+#ifndef ABEL_BINARY_HPP
+#define ABEL_BINARY_HPP
 
 #include "text.hpp"
 

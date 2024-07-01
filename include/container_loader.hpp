@@ -1,5 +1,5 @@
-#ifndef _ABEL_CONTAINER_LOADER_HPP_
-#define _ABEL_CONTAINER_LOADER_HPP_
+#ifndef ABEL_CONTAINER_LOADER_HPP
+#define ABEL_CONTAINER_LOADER_HPP
 
 #include "container.hpp"
 #include "util.hpp"

@@ -1,5 +1,5 @@
-#ifndef _ABEL_LIST_HPP_
-#define _ABEL_LIST_HPP_
+#ifndef ABEL_LIST_HPP
+#define ABEL_LIST_HPP
 
 #include "intrinsic.hpp"
 

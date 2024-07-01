@@ -1,5 +1,5 @@
-#ifndef _ABEL_SYMBOL_HPP_
-#define _ABEL_SYMBOL_HPP_
+#ifndef ABEL_SYMBOL_HPP
+#define ABEL_SYMBOL_HPP
 
 #include <fstream>
 #include <algorithm>

@@ -5,8 +5,8 @@
     TODO
     1. Not fully documented.
 */
-#ifndef _ABEL_TUPLE_HPP_
-#define _ABEL_TUPLE_HPP_
+#ifndef ABEL_TUPLE_HPP
+#define ABEL_TUPLE_HPP
 
 #include "list.hpp"
 
